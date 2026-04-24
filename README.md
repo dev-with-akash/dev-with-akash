@@ -61,7 +61,7 @@ Generative AI (GenAI), Agentic AI, Large Language Model (LLM) Integration, AI-Po
 - Built REST APIs for payment processing and validation
 - Ensured high reliability with proper exception handling
 
-🔭 Currently Working On (Updated — As Requested)
+🔭 Currently Working On :
 Becoming proficient in Python for AI and automation use cases
 Learning to integrate Large Language Models (LLMs) with Java Spring Boot applications
 Building AI-enabled backend products aligned with current industry and market trends
