@@ -1,22 +1,40 @@
-# Hi 👋, I'm Akash Yadav
+<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 
-## 👨‍💻 Java Backend Developer | Spring Boot | Microservices | Distributed Systems | SQL & NoSQL (MySQL, MongoDB)
+<p align="center">
+🚀 Java Backend Developer | Spring Boot | Microservices | Distributed Systems  
+🤖 Learning GenAI & Agentic AI | Integrating LLMs to Build Intelligent Products  
+☁️ MongoDB | AWS | Docker | REST APIs | Scalable Backend Architecture
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dev-with-akash)
-![GitHub followers](https://img.shields.io/github/followers/dev-with-akash?label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/dev-with-akash?affiliations=OWNER%2CCOLLABORATOR)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-with-akash" />
+  <img src="https://img.shields.io/github/followers/dev-with-akash?label=Followers" />
+  <img src="https://img.shields.io/github/stars/dev-with-akash?affiliations=OWNER%2CCOLLABORATOR" />
+</p>
 
-Java Backend Developer with experience in building scalable backend systems using Spring Boot, Microservices, and MongoDB. Passionate about designing secure APIs, multi-tenant architectures, and integrating third-party services like payment gateways and messaging platforms.
+Java Backend Developer experienced in Spring Boot, Microservices, and MongoDB, building scalable and secure backend systems. Passionate about multi-tenant architecture and third-party integrations. Currently learning Generative AI and Agentic AI, focusing on integrating LLMs to build intelligent backend products.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages:** Java (8, 17+)  
-**Backend:** Spring Boot, REST APIs, Microservices  
-**Databases:** MongoDB, MySQL  
-**DevOps & Tools:** Docker, AWS, Git, Maven, Postman  
-**Concepts:** OOP, Multithreading, System Design, JWT Authentication
+Languages:
+Java (8, 17+), Python
+
+Backend Technologies:
+Spring Boot, REST APIs, Microservices Architecture, Reactive Programming
+
+Databases:
+MongoDB, MySQL
+
+Cloud, DevOps & Tools:
+Docker, AWS, Git, Maven, Postman
+
+Core Concepts:
+Object-Oriented Programming (OOP), Multithreading, System Design, JWT Authentication, Multi-Tenant Architecture, Secure API Design
+
+AI & Intelligent Systems (Learning & Implementing):
+Generative AI (GenAI), Agentic AI, Large Language Model (LLM) Integration, AI-Powered Automation
 
 ---
 
@@ -43,12 +61,10 @@ Java Backend Developer with experience in building scalable backend systems usin
 - Built REST APIs for payment processing and validation
 - Ensured high reliability with proper exception handling
 
-## 🔭 Currently Working On
-
-- Building a Multi-Tenant Health Insurance Claims System using Java, Spring Boot, and MongoDB
-- Implementing tenant-based authentication using JWT
-- Designing scalable microservices architecture for multiple organizations
-- Adding role-based access control (RBAC) and tenant isolation
+🔭 Currently Working On (Updated — As Requested)
+Becoming proficient in Python for AI and automation use cases
+Learning to integrate Large Language Models (LLMs) with Java Spring Boot applications
+Building AI-enabled backend products aligned with current industry and market trends
 
 ---
 
